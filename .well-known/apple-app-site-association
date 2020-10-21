@@ -3,14 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "6C5B687R9E.com.epam.poc.ah",
+        "appID": "RMAQ2R7HZ8.com.monsterhub.walletpass",
         "paths": [ "*" ]
       }
     ]
   },
   "appclips": {
     "apps": [
-      "6C5B687R9E.com.epam.poc.ah.Checkout"
+      "RMAQ2R7HZ8.com.monsterhub.walletpass.AppClip"
     ]
   }
 }
